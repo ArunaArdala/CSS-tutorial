@@ -9,3 +9,5 @@ Internal - ex : Inside of head tag
         }
     </style>
 External - It is recommended approach
+
+CSS color : use the color picker website for vales of hexagon, rgb vales
