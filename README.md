@@ -11,3 +11,10 @@ Internal - ex : Inside of head tag
 External - It is recommended approach
 
 CSS color : use the color picker website for vales of hexagon, rgb vales
+
+Selector : There are two types of selectors
+            id, class,
+            Same element can have same class name. But cannot have same id.
+            +,~,> are also some selectors
+            * - universal selector
+            
